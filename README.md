@@ -32,7 +32,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unmakame&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=0e75b6&title_color=0e75b6)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unmakame)](https://github.com/unmakame/github-readme-stats)
 
 ### Most Used Languages
 
