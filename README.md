@@ -33,9 +33,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=unmakame)](https://git.io/streak-stats)
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=unmakame)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=unmakame" alt="GitHub Streak" />
+  </a>
 </p>
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=unmakame&show_icons=true)
 
