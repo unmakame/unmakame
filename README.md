@@ -53,11 +53,14 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=Contacts)](https://git.io/typing-svg)
+
 <p align="left">
-  <span style="font-size: 20px; margin-right: 5px;"></span>
-  <a href="https://tlgg.ru/unmakame">
+  <a href="https://tlgg.ru/unmakame" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</p>
-
+  
+  <a href="mailto:buyanovlad@gmail.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
 
