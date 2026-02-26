@@ -4,8 +4,9 @@
 <h1 align="center">
      👋 Hello there        
 </h1>
- https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmedia.contented.ru%2Fglossary%2Fgif%2F&ved=0CBUQjRxqFwoTCKCLmZHg95IDFQAAAAAdAAAAABAj&opi=89978449
- 
+
+![Uploading image.png…]()
+
 <h1 align="center">
     <br>
     Here you can see some of my skills 
