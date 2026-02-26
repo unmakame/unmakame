@@ -30,11 +30,16 @@
 </h1>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=unmakame)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=unmakame&theme=dark)](https://git.io/streak-stats)
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=unmakame" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=unmakame&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=unmakame&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
