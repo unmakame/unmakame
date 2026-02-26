@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   
-  <a href="mailto:buyanovlad@gmail.com" style="margin-right: 10px; text-decoration: none;">
+  <a href="mailto:bayanovlad@gmail.com" style="margin-right: 10px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
