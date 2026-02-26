@@ -46,14 +46,10 @@
 </p>
 
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://komarev.com/ghpvc/?username=unmakame&color=gray">
-    <img src="https://komarev.com/ghpvc/?username=unmakame&color=gray" alt="Profile views" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=unmakame&color=gray">
-    <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/90f27980-b765-421e-bf10-dfed71a0422d" />
-  </a>
-</div>
+![<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/90f27980-b765-421e-bf10-dfed71a0422d" />
+](https://komarev.com/ghpvc/?username=unmakame&color=gray)
+
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=Contacts)](https://git.io/typing-svg)
