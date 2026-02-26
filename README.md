@@ -54,13 +54,11 @@
 
 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=Contacts)](https://git.io/typing-svg)
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=Contacts" alt="Typing SVG" />
   </a>
   <br><br>
-  <span style="font-size: 20px; margin-right: 5px;">📱</span>
+  <span style="font-size: 20px; margin-right: 5px;"></span>
   <a href="https://tlgg.ru/unmakame">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
