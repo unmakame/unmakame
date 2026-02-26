@@ -57,8 +57,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=Contacts)](https://git.io/typing-svg)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/unmakame)    
-    </span>
-</h1>
+
 
 
 
