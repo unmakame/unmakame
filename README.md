@@ -5,7 +5,7 @@
      👋 Hello there        
 </h1>
 
-![Uploading image.png…]()
+
 
 <h1 align="center">
     <br>
