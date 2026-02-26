@@ -50,7 +50,7 @@
 ### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unmakame&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=0e75b6)
-
+![](https://komarev.com/ghpvc/?username=unmakame&color=green)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=Contacts)](https://git.io/typing-svg)
@@ -61,4 +61,4 @@
   </a>
 </p>
 
- 
+
