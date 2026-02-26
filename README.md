@@ -45,8 +45,17 @@
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=unmakame&show_icons=true)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=unmakame&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=unmakame&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ### Most Used Languages
 
@@ -56,8 +65,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=Contacts)](https://git.io/typing-svg)
 <p align="left">
-  </a>
-  <br><br>
   <span style="font-size: 20px; margin-right: 5px;"></span>
   <a href="https://tlgg.ru/unmakame">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
