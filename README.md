@@ -9,7 +9,7 @@
 
 <h1 align="center">
     <br>
-    Here you can see some of my skills 
+     some of my skills 
     </span>
 </h1>
 
